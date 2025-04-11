@@ -1,5 +1,5 @@
 
-![Aperçu de l’app](/Screenshot from 2025-04-11 12-14-23.png)
+![Aperçu de l’app](./vue-app.png)
 # Frontend Mentor - News homepage
 
 ![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
